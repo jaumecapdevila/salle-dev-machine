@@ -1,1 +1,1 @@
-class { 'sallepuppet': }
+class { 'basepuppetmodule': }
